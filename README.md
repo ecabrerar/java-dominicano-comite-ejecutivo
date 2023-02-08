@@ -4,3 +4,8 @@ Repositorio para alojar documentos oficiales del Comité Ejecutivo bajo control 
 
 ### Reuniones
 * [Minuta Reunión de Seguimiento Java Dominicano 07/02/2023](https://docs.google.com/document/d/1PZQiATTHAAnCOzfG5QSnhEYea0ybZANp_-iX88hIFJI/edit?usp=sharing)
+
+
+### Anuncios
+* [Temas charlas 2023 - Java Dominicano](https://telegra.ph/Temas-charlas-2023---Java-Dominicano-02-01)
+* [Conference Kickoff - Lanzamiento JConf Dominicana 2022](https://telegra.ph/Conference-Kickoff---Lanzamiento-JConf-Dominicana-2022-05-27)
