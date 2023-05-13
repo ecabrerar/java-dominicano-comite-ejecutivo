@@ -1,4 +1,4 @@
-## Comité Ejecutivo de la Comunidad de usuarios Java de República Dominicana
+## Comité Ejecutivo de la Comunidad de Usuarios Java de República Dominicana
 Repositorio para alojar documentos oficiales del Comité Ejecutivo bajo control de revisión o proporcionar enlaces a documentos alojados externamente.
 
 
@@ -10,5 +10,5 @@ Repositorio para alojar documentos oficiales del Comité Ejecutivo bajo control 
 
 ### Anuncios
 * [Conference Kickoff - Lanzamiento JConf Dominicana 2023](https://telegra.ph/Conference-Kickoff---Lanzamiento-JConf-Dominicana-2023-04-03)
-* [Temas charlas 2023 - Java Dominicano](https://telegra.ph/Temas-charlas-2023---Java-Dominicano-02-01)
+* [Temas charlas 2023 - Java Dominicano](https://telegra.ph/Temas-Charlas-2023---Java-Dominicano-05-13) 
 * [Conference Kickoff - Lanzamiento JConf Dominicana 2022](https://telegra.ph/Conference-Kickoff---Lanzamiento-JConf-Dominicana-2022-05-27)
