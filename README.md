@@ -3,6 +3,7 @@ Repositorio para alojar documentos oficiales del Comité Ejecutivo bajo control 
 
 
 ### Reuniones
+* [Minuta Reunión de Seguimiento Java Dominicano 16/01/2024](https://github.com/BrayanMnz/java-dominicano-comite-ejecutivo/blob/main-1/minuta-reunion-09052023.md)
 * [Reunión Retrospectiva JConf Dominicana 2023](https://docs.google.com/document/d/12dyuTlGtAh0jk7HDB20UpnNhOCk06AqJ8UB9mAWed58/edit?usp=sharing)
 * [Minuta Reunión de Seguimiento Java Dominicano 07/02/2023](https://docs.google.com/document/d/1PZQiATTHAAnCOzfG5QSnhEYea0ybZANp_-iX88hIFJI/edit?usp=sharing)
 * [Minuta Reunión de Seguimiento Java Dominicano 11/04/2023](https://docs.google.com/document/d/1LUw_1yisKOi_5CbWVyxqcmWH-IRHl_PZVB3ivdZf0Wo/edit?usp=sharing)
